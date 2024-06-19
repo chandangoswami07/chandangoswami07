@@ -23,7 +23,7 @@ That's why I like to make things that make a difference.
 - 👨‍🎓 I'm a ** Computer Science Engineering Student**
 - 🔭 I’m currently working on <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> platform
 - 💬 Ask me about anything, I am happy to help
-- ✍ I'm Graduated from **Guru Gobind Singh Educational Society's Technical Campus**  
+- ✍ I'm Graduated from ** Guru Gobind Singh Educational Society's Technical Campus **  
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode]
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
