@@ -8,7 +8,8 @@
 
 
 
-## Glad to see you here! &nbsp; [visitors] (https://img.icons8.com/?size=100&id=Vt6sERHVlcJ5&format=png&color=000000)
+## Glad to see you here! &nbsp; [visitors] 
+
 I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
 
 As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
