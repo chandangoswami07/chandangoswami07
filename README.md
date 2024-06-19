@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/chandan-goswami-58777b250" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/chandan-goswami-58777b250" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+<a href=" https://instagram.com/__ab_himanyu__?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 
  
 
@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 That's why I like to make things that make a difference.
  
 
-<img align="right" alt="GIF" src=" https://github.com/Abhimanyu0p/Abhimanyu0p/blob/main/coding.gif raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 ### Talking about Personal Stuff:
 
