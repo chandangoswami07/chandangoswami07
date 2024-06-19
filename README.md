@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/chandan-goswami-58777b250" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
-<a href=" https://instagram.com/__ab_himanyu__?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+<a href=" https://www.instagram.com/ig__abhimanyu___?igsh=MXBsZWl6N2FpN2lqZw==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 
  
 
