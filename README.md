@@ -20,10 +20,10 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a ** Software Engineering Student**
-- 🔭 I’m currently working on ReactJS platform
+- 👨‍🎓 I'm a ** Computer Science Engineering Student**
+- 🔭 I’m currently working on <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> platform
 - 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger** with 10,000+ user reads
+- ✍ I'm Graduated from **Guru Gobind Singh Educational Society's Technical Campus**  
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode]
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
