@@ -1,4 +1,4 @@
-*+7# Welcome to [Chandan Goswami's](https://Abhimanyu0p) profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Chandan Goswami's](https://Abhimanyu0p) profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/chandan-goswami-58777b250" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
@@ -37,9 +37,8 @@ That's why I like to make things that make a difference.
 &nbsp;
 <a href="https://leetcode.com/u/__ab_himanyu__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandan" height="30" width="40" /></a>
 &nbsp;
- 
 <a href="https://www.hackerrank.com/profile/chandangoswami81" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ChandanGoswami" height="30" width="40" /></a>
-&nbsp;
+
 
 ---
 
