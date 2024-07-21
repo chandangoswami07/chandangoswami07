@@ -29,7 +29,7 @@ That's why I like to make things that make a difference.
   - Data Structures and Algorithms on [LeetCode]
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [chandan828134@gmail.com](mailto:chandan828134@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1Niz4y_o53t2WNxQirmZQD9AV7Z6FqY-d/view?usp=drive_link).
+- 📝 [Resume](https://drive.google.com/file/d/1uPD5FFUxrCFBUqdjlZdoLWeFV7XlkEmi/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
