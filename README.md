@@ -1,14 +1,20 @@
 # Welcome to [Chandan Goswami's](https://Abhimanyu0p) profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="160"/>
+</p>
+<!---
 <a href="https://www.linkedin.com/in/chandan-goswami-58777b250" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
 <a href=" https://www.instagram.com/ig__abhimanyu___?igsh=MXBsZWl6N2FpN2lqZw==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-
+&nbsp;
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:chandan828134@gmail.com)
+-->
+ 
  
 
 
 
-## Glad to see you here! &nbsp; [visitors] 
+## Glad to see you here! 🤗 &nbsp;  
 
 I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
 
@@ -17,7 +23,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 That's why I like to make things that make a difference.
  
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<!-- <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" /> --> 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
@@ -28,7 +35,7 @@ That's why I like to make things that make a difference.
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode]
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 📬 How to reach me: [chandan828134@gmail.com](mailto:chandan828134@gmail.com)
+- 📬 How to reach me:[💌 Gmail](mailto:chandan828134@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1uPD5FFUxrCFBUqdjlZdoLWeFV7XlkEmi/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
